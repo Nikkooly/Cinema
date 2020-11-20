@@ -1,0 +1,108 @@
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\SoapCore.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\kursovoi info\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\SoapCore.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\kursovoi\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.AWT.WinForms.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Beans.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Charsets.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Cldrdata.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Corba.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Jdbc.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Localedata.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Management.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Media.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Misc.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Naming.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Nashorn.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Remoting.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Security.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.SwingAWT.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Tools.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Bind.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Crypto.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Parse.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Transform.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.WebServices.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.XPath.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+F:\kursovoi\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll

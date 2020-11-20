@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/popup"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="460dp"
+    android:padding="5dp"
+    android:layout_gravity="center" >
+
+    <Button
+        android:id="@+id/close_popup"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="300dp"
+        android:layout_marginLeft="300dp"
+        android:background="@drawable/ic_close" />
+
+    <ImageView
+        android:id="@+id/qr_code"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/qrcode"
+        />
+
+    <TextView
+        android:id="@+id/scan_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/qr_code"
+        android:layout_toLeftOf="@+id/popup"
+        android:layout_toRightOf="@+id/popup"
+        android:layout_toStartOf="@+id/popup"
+        android:layout_toEndOf="@+id/popup"
+        android:text="Отсканируйте на кассе!"
+        android:textColor="@color/colorBackground"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="NotSibling"
+        />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Кинотеатр"
+        android:textColor="@color/colorBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="230dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="145dp"/>
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Зал"
+        android:textColor="@color/colorBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="280dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="145dp"/>
+
+    <ImageView
+        android:id="@+id/seats"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/seats"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginLeft="145dp"
+        android:layout_below="@+id/scan_text"
+        />
+
+    <TextView
+        android:id="@+id/reserved_seats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_below="@+id/seats"
+        android:text="Места"
+        android:gravity="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>

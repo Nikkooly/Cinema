@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_film"
+        android:title="Фильм">
+        <menu>
+            <item android:id="@+id/add_film"
+                android:title="Добавить" />
+            <item android:id="@+id/delete_film"
+                android:title="Удалить " />
+            <item android:id="@+id/change_film"
+                android:title="Редактировать" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/action_cinema"
+        android:title="Кинотеатр">
+        <menu>
+            <item android:id="@+id/add_cinema"
+                android:title="Добавить кинотеатр" />
+            <item android:id="@+id/delete_cinema"
+                android:title="Удалить кинотеатр" />
+            <item android:id="@+id/change_cinema"
+                android:title="Отредактировать кинотеатр" />
+            <item android:id="@+id/add_hall"
+                android:title="Добавить зал" />
+            <item android:id="@+id/delete_hall"
+                android:title="Удалить зал" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/action_seance"
+        android:title="Сеанс">
+        <menu>
+            <item android:id="@+id/add_seance"
+                android:title="Добавить сеанс" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/action_exit"
+        android:title="Выход">
+    </item>
+</menu>

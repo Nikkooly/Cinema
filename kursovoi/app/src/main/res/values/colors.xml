@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#B9BBBD</color>
+    <color name="colorBackground">#18DDFF</color>
+    <color name="colorSplashText">#F0F0F0</color>
+    <color name="colorProgressBar">#ff0000</color>
+    <color name="colorTextView">#83898E</color>
+    <color name="btnColor">#FFFFFF</color>
+    <color name="toolBarTicket">#FFFFFF</color>
+    <color name="menuDownColor">#FFFFFF</color>
+    <color name="textColorFragment">#000000</color>
+    <color name="titleColor">#F5821E</color>
+    <color name="availableColor">#32CD32</color>
+</resources>

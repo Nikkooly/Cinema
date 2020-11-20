@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Registration">
+
+    <ImageView
+        android:id="@+id/IconImageView"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/app_icon" />
+
+    <TextView
+        android:id="@+id/textForOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IconImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/colorBackground"
+        android:text="Регистрация"
+        android:textSize="20sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/LinearRegistration"
+        android:layout_below="@+id/textForOne"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/loginUserEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/MarginEditTextRegistration"
+            android:layout_marginRight="@dimen/MarginEditTextRegistration"
+            android:layout_marginTop="25dp"
+            android:hint="Логин"
+            android:textColor="@color/colorTextView"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/mailUserEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/MarginEditTextRegistration"
+            android:layout_marginRight="@dimen/MarginEditTextRegistration"
+            android:layout_marginTop="25dp"
+            android:hint="Почта"
+            android:textColor="@color/colorTextView"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/passwordUserEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/MarginEditTextRegistration"
+            android:layout_marginRight="@dimen/MarginEditTextRegistration"
+            android:layout_marginTop="25dp"
+            android:hint="Пароль"
+            android:inputType="textPassword"
+            android:textColor="@color/colorTextView"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginLeft="@dimen/MarginEditTextRegistration"
+            android:layout_marginRight="@dimen/MarginEditTextRegistration"
+            android:background="@drawable/button_drawable"
+            android:layout_marginTop="25dp"
+            android:text="Регистрация"
+            android:layout_below="@+id/LinearRegistration"
+            android:textAllCaps="false"
+            android:textColor="@color/btnColor"
+            android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/ic_link" />
+
+</RelativeLayout>

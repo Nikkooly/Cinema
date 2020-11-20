@@ -1,0 +1,4 @@
+F:\kursovoi\Server\Server\obj\Debug\netcoreapp2.2\Server.csprojAssemblyReference.cache
+F:\kursovoi\Server\Server\obj\Debug\netcoreapp2.2\Server.csproj.CoreCompileInputs.cache
+F:\kursovoi\Server\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfoInputs.cache
+F:\kursovoi\Server\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfo.cs

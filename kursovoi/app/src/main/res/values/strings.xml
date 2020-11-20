@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="booki">Magnifisent</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="read_it_together">Films wait you</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_password">Forget Password.?</string>
+    <string name="login_error">Username can not be empty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
